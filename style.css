@@ -1,0 +1,23 @@
+Body{
+    background-color:rgb(1, 1, 11);
+    color:white;
+    .highlight{
+        color:#00c3ff;
+    
+
+
+    }
+
+}
+
+h1{
+    color:#00c3ff;
+  
+}
+h4{
+    color:white;
+   
+}
+button{
+    background-color:#00c3ff;
+}
